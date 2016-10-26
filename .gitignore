@@ -4,3 +4,5 @@ npm-debug.log
 typings
 .idea
 .meteor/local
+/client/lib/semantic-ui
+!/client/lib/semantic-ui/custom.semantic.json
