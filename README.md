@@ -1,4 +1,6 @@
-# Angular2-Meteor-Base Tutorial
+# MATSU
+
+Базовый шаблон для разработки
 
 ## Usage
 
